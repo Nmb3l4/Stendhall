@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 60,
+    "width": 638,
+    "height": 851,
+    "isRotated": false,
+    "originalWidth": 759,
+    "originalHeight": 851
+  },
+  "imagePath": "image-targets/Captura de pantalla 2026-07-03 a las 19.00.38_luminance.png",
+  "metadata": null,
+  "name": "Captura de pantalla 2026-07-03 a las 19.00.38",
+  "resources": {
+    "originalImage": "Captura de pantalla 2026-07-03 a las 19.00.38_original.png",
+    "croppedImage": "Captura de pantalla 2026-07-03 a las 19.00.38_cropped.png",
+    "thumbnailImage": "Captura de pantalla 2026-07-03 a las 19.00.38_thumbnail.png",
+    "luminanceImage": "Captura de pantalla 2026-07-03 a las 19.00.38_luminance.png"
+  },
+  "created": 1783098077111,
+  "updated": 1783098077111
+}
