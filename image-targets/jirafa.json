@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 60,
+    "width": 638,
+    "height": 851,
+    "isRotated": false,
+    "originalWidth": 759,
+    "originalHeight": 851
+  },
+  "imagePath": "image-targets/jirafa_luminance.png",
+  "metadata": null,
+  "name": "jirafa",
+  "resources": {
+    "originalImage": "jirafa_original.png",
+    "croppedImage": "jirafa_cropped.png",
+    "thumbnailImage": "jirafa_thumbnail.png",
+    "luminanceImage": "jirafa_luminance.png"
+  },
+  "created": 1783357769473,
+  "updated": 1783357769473
+}
